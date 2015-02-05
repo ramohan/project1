@@ -14,3 +14,6 @@ password<input type='password' name='pwd'><br>
 def check_login(request):
 	return HttpResponse('welcome to baba')
 # Create your views here.
+
+
+print "This is Testing call"
